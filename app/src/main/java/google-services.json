@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435226058302",
+    "project_id": "society-broadcast",
+    "storage_bucket": "society-broadcast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435226058302:android:cd586da467f49219807b6f",
+        "android_client_info": {
+          "package_name": "com.example.societybroadcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcmGn5Bq-FBr00e3Tt6jFYuxWmryZ0FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
